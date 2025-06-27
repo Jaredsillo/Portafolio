@@ -54,7 +54,7 @@ const Home = ({ isDark }) => {
                 className="rrss-btn"
                 onClick={() =>
                   window.open(
-                    'https://www.linkedin.com/in/albert-castro-albacete-38204615a/'
+                    'https://www.linkedin.com/in/angel-jared-vazquez-roman-25483736a/'
                   )
                 }
               >
