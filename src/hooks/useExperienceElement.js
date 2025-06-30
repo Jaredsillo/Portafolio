@@ -8,10 +8,11 @@ export const useExperienceElement = () => {
       icon: Practicas,
       title: 'Experiencia en Desarrollo Web Full Stack',
       description: 'Cinco meses de prácticas profesionales en la',
-      descriptionBold: 'Universidad Technológica de Acapulco',
+      descriptionBold: 'Secretaría de Educación Guerrero',
+      // SECRETARÍA DE EDUCACIÓN GUERRERO SERVICIOS REGIONALES EDUCATIVOS ACAPULCO – COYUCA
       button: 'Referencias',
       onclick: () =>
-        window.open(''),
+        window.open('/Documents/Carta_Recomendacion_JaredVazquez.pdf'),
     },
     // {
     //   icon: Modelista,
